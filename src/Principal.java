@@ -21,14 +21,14 @@ public class Principal {
         //System.out.println(meuFilme.totalDeAvaliacao);
 
         Serie serie = new Serie();
-        serie.setNome("Welcome To Eltingville");
+        serie.setNome("Eltingville Club");
         serie.setAnoDelacamento(2002);
         serie.exibeFichaTecnica();
         serie.setTemporadas(5);
         serie.setEpisodiosPorTemporadas(15);
         serie.setMinutosPorEpisodio(25);
 
-        System.out.println("Duração para maratonar Eltingville: " + serie.getDuracaoEmMinutos());
+        System.out.println("Duração para maratonar Eltingville Club: " + serie.getDuracaoEmMinutos());
 
 
     }
