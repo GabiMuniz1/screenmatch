@@ -20,7 +20,7 @@ public class Titulo {
         this.nome = nome;
     }
 
-    public void setAnoDelacamento(int anoDelacamento) {
+    public void setAnoDelancamento(int anoDelacamento) {
         this.anoDelacamento = anoDelacamento;
     }
 
